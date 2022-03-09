@@ -1,0 +1,17 @@
+{
+  "name": "sequence",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-runtime": "^6.26.0",
+    "bio-parsers": "^8.3.24",
+    "jest": "^27.5.1",
+    "sboljs": "^2.2.8"
+  }
+}

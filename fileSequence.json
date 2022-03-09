@@ -1,0 +1,29 @@
+{
+  "fileSequence" : [
+    {
+      "name"  : "./references/B11_simple.xml"
+    },
+    {
+      "name"  : "./references/B12.xml"
+    },
+    {
+      "name"  : "./references/BBa_F2620.xml"
+    },
+    {
+      "name"  : "./references/BBa_J23100.xml"
+    },
+    {
+      "name"  : "./references/Bacillus_subtilis_Collection/module_BO_32979_encodes_BO_26787.xml"
+    },
+    {
+      "name"  : "./references/iGem_Collection/BBa_B1011.xml"
+    },
+    {
+      "name"  : "./references/iGem_Collection/BBa_B3101.xml"
+    },
+    {
+      "name"  : "./references/iGem_Collection/BBa_B1011.xml"
+    }
+  ]
+
+}
